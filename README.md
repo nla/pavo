@@ -22,9 +22,10 @@ Widget Reference
 Anatomy of a PAVO Widget
 ------------------------
 
-A typical widget consists of four files plus optional static assets.
+A typical widget consists of five files plus any additional static assets.
 
     widgets/helloworld/
+        README.md
         config.json
         _helloworld.erb
         helloworld.js
