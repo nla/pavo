@@ -30,7 +30,7 @@ Dependencies
 Core dependencies:
  - [RequireJS](http://requirejs.org/)
  - [jQuery](http://jquery.com/)
- - [Trimpath JavaScript Templates](https://code.google.com/p/trimpath/wiki/JavaScriptTemplates)
+ - [TrimPath JavaScript Templates](https://code.google.com/p/trimpath/wiki/JavaScriptTemplates)
 
 For audio widgets:
  - [jPlayer](http://jplayer.org/)
