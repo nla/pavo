@@ -33,6 +33,22 @@ A typical widget consists of five files plus any additional static assets.
         images/
             background.png
 
+### Documentation (README)
+
+Each widget should have a README file with short description of it's purpose and the configuration options
+it supports.
+
+```markdown
+HelloWorld Widget
+=================
+
+Displays a friendly greeting.
+
+## Options
+
+- message: the text to display
+```
+
 ### Configuration (JSON)
 
 ```JSON
