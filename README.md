@@ -1,4 +1,4 @@
-pavo-widgets
+PAVO Widgets
 ============
 
 **Beware:** This is currently just a placeholder. This project does not exist yet in a usable form.
@@ -19,7 +19,7 @@ Widget Reference
  - contactus &mdash; simple feedback form
  - toolbar &mdash; a bar of buttons
 
-Anatomy of a Pavo Widget
+Anatomy of a PAVO Widget
 ------------------------
 
 A typical widget consists of four files plus optional static assets.
@@ -44,8 +44,8 @@ A typical widget consists of four files plus optional static assets.
 
 ### Templates (ERB + JST)
 
-Use ERB syntax (`<%= foo %>`) for server-side templating and JST (`${foo}`) for client-side.  It's
-normal to mix both in the same file.
+Use [ERB syntax] like `<%= foo %>` for server-side templating and [JST syntax] like `${foo}` for the client-side.
+It's normal to mix both in the same file.
 
 ```HTML
 <link rel="stylesheet" type="text/css" href="<%= app_path %>widgets/helloworld/helloworld.css"/>
@@ -57,6 +57,9 @@ normal to mix both in the same file.
   --></div>
 </div>
 ```
+
+[ERB syntax]: http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html
+[JST syntax]: https://code.google.com/p/trimpath/wiki/JavaScriptTemplateSyntax
 
 ### Stylesheets (CSS)
 
