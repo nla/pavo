@@ -120,13 +120,22 @@ Dependencies
 ------------
 
 Core dependencies:
- - [RequireJS](http://requirejs.org/) for modularity
- - [jQuery](http://jquery.com/) for events and DOM manipulation
- - [Ruby](http://www.ruby-lang.org) for server-side templates
- - [TrimPath JavaScript Templates](https://code.google.com/p/trimpath/wiki/JavaScriptTemplates) for client-side templates
+ - [RequireJS](http://requirejs.org/) for modularity (MIT+BSD)
+ - [jQuery](http://jquery.com/) for events and DOM manipulation (MIT+GPL)
+ - [Ruby](http://www.ruby-lang.org) for server-side templates (Ruby+BSD)
+ - [TrimPath JavaScript Templates](https://code.google.com/p/trimpath/wiki/JavaScriptTemplates) for client-side templates (APL+GPL)
+ - [html5shiv](http://remysharp.com/html5-enabling-script) for HTML5 element tags in IE (MIT+GPL)
+ - [css3-mediaqueries-js](https://code.google.com/p/css3-mediaqueries-js/) for compatibility with older browsers (MIT)
+ - [1140 CSS Grid](http://cssgrid.net/) for layout (CC BY-SA 3.0; **GPL incompatible**)
 
 For audio widgets:
- - [jPlayer](http://jplayer.org/) for audio playback
+ - [jPlayer](http://jplayer.org/) for audio playback (MIT+GPL)
+ - [jQuery Splitter](http://krikus.com/js/splitter) for split transcripts views (MIT+GPL)
+ - [jQuery ScrollTo](http://flesler.blogspot.com/2007/10/jqueryscrollto.html) for scolling transcripts (MIT+GPL)
+ - [jPaginate](http://tympanus.net/codrops/2009/11/17/jpaginate-a-fancy-jquery-pagination-plugin/) for paginating transcripts ([Codrops](http://tympanus.net/codrops/licensing/))
+ - [jQuery Expander](https://github.com/kswedberg/jquery-expander) for showing work details (MIT+GPL)
+ - [jQuery Highlight](http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html) for highlighting transcript search results (MIT)
+
 
 License
 -------
