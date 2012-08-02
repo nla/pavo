@@ -28,8 +28,8 @@ A typical widget consists of five files plus any additional static assets.
         README.md
         config.json
         _helloworld.erb
-        helloworld.js
         helloworld.css
+        helloworld.js
         images/
             background.png
 
