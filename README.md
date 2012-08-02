@@ -126,7 +126,7 @@ Core dependencies:
  - [TrimPath JavaScript Templates](https://code.google.com/p/trimpath/wiki/JavaScriptTemplates) for client-side templates (APL+GPL)
  - [html5shiv](http://remysharp.com/html5-enabling-script) for HTML5 element tags in IE (MIT+GPL)
  - [css3-mediaqueries-js](https://code.google.com/p/css3-mediaqueries-js/) for compatibility with older browsers (MIT)
- - [1140 CSS Grid](http://cssgrid.net/) for layout (CC BY-SA 3.0; **GPL incompatible**)
+ - [1140 CSS Grid](http://cssgrid.net/) for layout (CC BY 3.0)
 
 For audio widgets:
  - [jPlayer](http://jplayer.org/) for audio playback (MIT+GPL)
